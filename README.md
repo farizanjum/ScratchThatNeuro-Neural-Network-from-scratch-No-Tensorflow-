@@ -20,6 +20,8 @@ Make sure you have the following installed:
 - `numpy`
 - `matplotlib`
 - `keras`
+### Dataset:
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 
 ### Running the Model
 You can run the model with:
@@ -27,7 +29,7 @@ You can run the model with:
 python main.py
 
 ### Results
-Training Accuracy: 94.42% after 2000 epochs.
+Training Accuracy: 94.42%.
 Test Accuracy: Comparable performance, indicating strong generalization on unseen data.
 Dataset: The project uses the MNIST dataset of handwritten digits, with 60,000 training and 10,000 testing samples.
 
